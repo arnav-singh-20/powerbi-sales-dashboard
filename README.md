@@ -24,14 +24,14 @@ To analyze sales, profit, quantity sold, and promotional effectiveness across pr
 ## Dashboard Preview
 
 ### Overview
-![Overview](Screenshots/Overview.png)
+![Overview](screenshots/Overview.png)
 
 ### Top & Bottom Products
-![Top Bottom](Screenshots/Top-bottom.png)
+![Top Bottom](screenshots/Top-bottom.png)
 
 ### Sales, Profit & Quantity
-![Sales Profit Quantity](Screenshots/Total%20sales,%20profit%20and%20quantity.png)
+![Sales Profit Quantity](screenshots/Total_sales,_profit_and_quantity.png)
 
 ### Interactive Filters
-![Filters](Screenshots/Filters.png)
+![Filters](screenshots/Filters.png)
 
