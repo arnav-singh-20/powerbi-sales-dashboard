@@ -22,5 +22,16 @@ To analyze sales, profit, quantity sold, and promotional effectiveness across pr
 - Profit is strongly correlated with net sales but affected by discount strategies
 
 ## Dashboard Preview
-![Overview](screenshots/overview.png)
-![Top Bottom Products](screenshots/top_bottom_products.png)
+
+### Overview
+![Overview](Screenshots/Overview.png)
+
+### Top & Bottom Products
+![Top Bottom](Screenshots/Top-bottom.png)
+
+### Sales, Profit & Quantity
+![Sales Profit Quantity](Screenshots/Total%20sales,%20profit%20and%20quantity.png)
+
+### Interactive Filters
+![Filters](Screenshots/Filters.png)
+
