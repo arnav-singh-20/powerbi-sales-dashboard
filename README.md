@@ -30,7 +30,7 @@ To analyze sales, profit, quantity sold, and promotional effectiveness across pr
 ![Top Bottom](screenshots/Top-bottom.png)
 
 ### Sales, Profit & Quantity
-![Sales Profit Quantity](screenshots/Total-sales,-profit-and-quantity.png)
+![Sales Profit Quantity](screenshots/Total sales, profit and quantity.png)
 
 ### Interactive Filters
 ![Filters](screenshots/Filters.png)
